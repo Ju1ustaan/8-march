@@ -11,7 +11,6 @@ const movies = [
 const Movies = () => {
   return (
     <div>
-      <RosePetals className="fixed inset-0 w-full h-full z-50 overflow-hidden" />
       <BackPage />
 
       <div className="flex w-full h-screen">

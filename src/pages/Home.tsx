@@ -13,19 +13,19 @@ const Home = () => {
             <div className='flex gap-3 z-1 relative'>
                 <Link to="/movies" className='block'>
                     <button className='max-w-[300px]'>
-                        Cписок фильмов для совместного просмотра
+                        Серилы для вечернего просмотра
                     </button>
                 </Link>
                 <Link to="/gifts" className='block'>
                 <button className='max-w-[300px]'>
-                    Подарки для тебя
+                    Выбери подарок для себя
                 </button>
                 </Link>
-                <Link to="/services" className='block'>
+                {/* <Link to="/services" className='block'>
                 <button className='max-w-[300px]'>
                     Мое внимание и любовь к тебе
                 </button>
-                </Link>
+                </Link> */}
             </div>
         </div>
     )
