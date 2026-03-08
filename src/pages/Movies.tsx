@@ -1,5 +1,4 @@
 import BackPage from "../components/BackPage"
-import { RosePetals } from "../components/RosePetals"
 
 const movies = [
     { id: 1, title: "Рыцарь семи королевств", img: 'https://avatars.mds.yandex.net/get-mpic/16857451/2a0000019b78b27cf9b67a47f3da906b09b9/orig', path: 'https://fbfree.cfd/series/5281617/?utm_referrer=www.google.com' },
